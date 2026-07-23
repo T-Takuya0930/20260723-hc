@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    background-color: #fff8e1;
+    border: 3px solid #ffb300;
+    padding: 30px;
+    width: 800px;
+    margin: 30px auto;
+}
+
+hi {
+    margin-top: 0;
+}
+
+h2 {
+    border-bottom: 2px solid #ffcc80;
+    padding-bottom: 5px;
+}
+
+ul,ol {
+    padding-left: 30px;
+}
